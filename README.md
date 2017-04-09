@@ -7,6 +7,16 @@ Requirements:
 
  - Python 3
 
+Components:
+
+ - moPass: password Generator
+ - moEncrypt: reEncrypt tools with RSA
+ - moCompress: compress tools for password
+ - moKeyboard: keyboard design with encodeded
+ - moIme: input method with encodeded
+ - moDuino: passowrd generator with Arduino
+ - moDatabase: database for save password
+ - [mole](http://github.com/phodal/mole): a github-base cloud-base note
 
 License
 ---
